@@ -1,0 +1,102 @@
+{
+  "Categorias": [
+    {
+      "id": 1,
+      "nombre": "Anillos",
+      "descripcion": "Anillos en general de todo tipo de material"
+    },
+    {
+      "id": 2,
+      "nombre": "Collares",
+      "descripcion": "Collares en general de todo tipo de material"
+    },
+    {
+      "id": 3,
+      "nombre": "Aros",
+      "descripcion": "Aros en general de todo tipo de material"
+    },
+    {
+      "id": 4,
+      "nombre": "Brazaletes",
+      "descripcion": "Brazaletes de todo tipo de material"
+    }
+  ],
+  "Almacenes": [
+    {
+      "id": 1,
+      "nombre": "Almacen Central",
+      "descripcion": "Almacen central de productos centralizados"
+    },
+    {
+      "id": 2,
+      "nombre": "Almacen Tienda 1",
+      "descripcion": "Almacen ubicado en la tienda central"
+    }
+  ],
+  "Articulos": [
+    {
+      "id": 1,
+      "imagen": "https://www.publicdomainpictures.net/pictures/370000/velka/18ct-gold-hoops-earrings.jpg",
+      "nombre": "Aretes de Oro",
+      "descripcion": "Gama Alta",
+      "precio": "620",
+      "idcategoria": 3
+    },
+    {
+      "id": 2,
+      "imagen": "https://as1.ftcdn.net/v2/jpg/03/16/96/66/1000_F_316966698_CzkbAR8LrxErLZ398qeqt05HfWIvNbNQ.jpg",
+      "nombre": "Anillos de Oro",
+      "descripcion": "Anillos de Oro para parejas",
+      "precio": "1750",
+      "idcategoria": 1
+    },
+    {
+      "id": 3,
+      "imagen": "https://as1.ftcdn.net/v2/jpg/01/87/94/64/1000_F_187946490_ljWvl2FngBdQDJ5M7MUOfkfyCcNPwicY.jpg",
+      "nombre": "Collar Corazones",
+      "descripcion": "Gargantilla para mujer",
+      "precio": "1154",
+      "idcategoria": 2
+    },
+    {
+      "id": 4,
+      "imagen": "https://as2.ftcdn.net/v2/jpg/03/08/76/33/1000_F_308763328_6KXebugfgWFBl3Iwc8n5hZv1P917JGcF.jpg",
+      "nombre": "Anillo de Plata",
+      "descripcion": "Anillo de Plata para mujer",
+      "precio": "750",
+      "idcategoria": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Anillo de Oro Blanco",
+      "descripcion": "Oro blanco de Calidad",
+      "precio": "1252",
+      "imagen": "https://img.freepik.com/foto-gratis/elegantes-anillos-boda-plata-hechos-oro-blanco-encuentran-pulsera-cristal_8353-8668.jpg?w=740&t=st=1666552884~exp=1666553484~hmac=15e152a91396f361723163b8b1ba188e51edc2b0e19278b2f53f0b6e2e124e99",
+      "idcategoria": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Collar de Perlas",
+      "descripcion": "Perlas de Material Garantizado",
+      "precio": "750",
+      "imagen": "https://img.freepik.com/fotos-premium/collar-perlas-blancas-sobre-material-satinado-textura-seda-roja_400823-229.jpg?w=740",
+      "idcategoria": 2
+    },
+    {
+      "id": 10,
+      "nombre": "Aros planos",
+      "descripcion": "Aros de plata",
+      "precio": "355",
+      "imagen": "https://img.freepik.com/psd-gratis/maqueta-soporte-exhibicion-aretes-vista-frontal_1332-13257.jpg?w=740&t=st=1666556373~exp=1666556973~hmac=c4a099fcd52d900a23fc9d4d773bcbdcb2499a1f4cb2a384aa4d4912c6d66527",
+      "idcategoria": 3
+    },
+    {
+      "id": 11,
+      "nombre": "Aros de Novia",
+      "descripcion": "Aros para boda",
+      "precio": "750",
+      "imagen": "https://img.freepik.com/foto-gratis/preparacion-boda-novia-hermosa-feliz-viste-pendientes-antes-casarse_8353-5813.jpg?w=740&t=st=1666556451~exp=1666557051~hmac=5319188aef6b9cd90707c40413e657622262f85d0a2c5a2383d6fc641ffa6a92",
+      "idcategoria": 3
+    }
+  ]
+}
